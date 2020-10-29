@@ -4,4 +4,4 @@
 
 **[лабораторная работа № 2](https://github.com/Dermogod/Numpy_labs_MAI/blob/main/numpy_second_lab.ipynb)**
 
-**[Лабораторная работа № 3](https://github.com/Dermogod/Numpy_labs_MAI/blob/main/numpy_third_lab.ipynb)**
+**[лабораторная работа № 3](https://github.com/Dermogod/Numpy_labs_MAI/blob/main/numpy_third_lab.ipynb)**
