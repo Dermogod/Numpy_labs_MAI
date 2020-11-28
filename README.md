@@ -9,3 +9,5 @@
 **[лабораторная работа № 4 (Pandas № 1)](https://github.com/Dermogod/Numpy_labs_MAI/blob/main/Pandas_first_lab.ipynb)**
 
 **[лабораторная работа № 5 (Pandas № 2)](https://github.com/Dermogod/python_labs_mai/blob/main/Pandas_second_lab.ipynb)**
+
+**[лабораторная работа № 6 (Pandas № 3)](https://github.com/Dermogod/python_labs_mai/blob/main/Pandas_third_lab.ipynb)**
